@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <page href="/" title="Home">
+        <p>DJ. Producer. Blogger.</p>
+    </page>
+    <page href="/about" title="About">
+                <p>SOSUPERSAM, born Samantha Duenas, has rightfully earned her title as a DJ and Tastemaker.
+The Los Angeles native is distinguished by her creativity behind turntables, and innate ability to curate music. Samantha seamlessly mixes by way of vinyl using a variety of genres, including 80s, 90s, Dance, Electronic, Hip Hop, Indie, R&amp;B and Soul.
+Her 2010 mixtape entitled “Cruel Summer” garnered significant attention, leading to clients such as Casio G-Shock, Complex Magazine, Steven Alan and Vans.  
+
+In 2011, Samantha began to hit the national and international circuit, playing along the East Coast, and as far as Singapore and Paris.  She has had the opportunity to open for artists like Boyz II Men (Decca Records) and Dam Funk (Stonesthrow Records). 
+
+SOSUPERSAM is perhaps most familiarly known as the tour DJ for Childish Gambino (Glassnote Records).  Her latest mixtape "This Way Up," was released on October25, 2011, shortly before Samantha joined Childish Gambino's "The Sign Up" tour.  
+
+SOSUPERSAM currently resides in New York City.
+
+</p>
+    </page>
+    <page href="/music" title="Music">
+        <div id="mixtape"><img src="/state/images/mixtapes/mixtape1.jpeg"/><p>This mixtape.</p></div>
+        <div id="mixtape"><img src="/state/images/mixtapes/mixtape1.jpeg"/><p>This mixtape.</p></div>
+        <div id="mixtape"><img src="/state/images/mixtapes/mixtape1.jpeg"/><p>This mixtape.</p></div>
+    </page>
+    <page href="/events" title="Events">
+
+<h2>Event Calendar</h2>
+
+<div id="calendar-listing">
+
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+<div class="cal1">
+<div id="date-listing">MAY 8</div>
+<div id="event-listing">Scoop NYC + ABT Charity</div>
+<div id="event-location">Soho / NYC</div>
+<div id="event-info">Info</div>
+</div>
+
+        </div>
+    </page>
+
+    <page href="/shop" title="Shop">
+        <p>Shop content.</p>
+    </page>
+
+     <page href="/blog" title="Blog">
+        <p>Blog content.</p>
+    </page>
+</data>

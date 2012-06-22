@@ -1,0 +1,126 @@
+
+
+body{
+font-family: "futura-pt",sans-serif;
+
+}
+
+#logo {
+  float:left;
+  color:#FFF;
+  font-size:20px;
+  top:40px;
+  left:40px;
+  position:fixed;
+}
+
+
+
+
+/* NAV STYLES */
+
+nav{
+  position:fixed;
+  right:30px;
+  //left:240px;
+  top:35px;
+  display:block;
+}
+
+nav ul li{
+  font-size:1em;
+  float:left;
+  height:20px;
+  list-style-type:none;
+  //font-family: helvetica, sans-serif;
+  padding:0 0 0 1em;
+  text-transform: uppercase;
+  //font-family: pragmatica-web,sans-serif;
+  //font-weight:bold;
+}
+
+nav ul a{
+  text-decoration:none;
+  color:#fff;
+}
+
+nav ul a:hover{
+  text-decoration:none;
+  color:#48ff48;
+}
+
+.navSelected a{
+  color:#48ff48;
+}
+
+
+/* STANDARD PAGE STYLES */
+ 
+.page {
+  padding-top: 6em;
+  padding-left: 25%;
+  width: 75%;
+  margin:0;
+}
+
+/* MUSIC PAGE STYLES */
+
+#mixtape {
+  padding:1em;
+  float: left;
+  background:#fff;
+  text-align:center;
+}
+
+#mixtape img{
+
+width:200px;
+
+
+}
+
+/* CALENDAR STYLES */
+
+#calendar-listing{
+  width:80%;
+
+}
+
+#date-listing{
+float:left;
+padding-right:4em;
+
+}
+
+
+#event-listing{
+float:left;
+padding-right:10em;
+
+}
+
+#event-location{
+float:left;
+
+}
+
+#event-info{
+float:right;
+
+
+}
+
+
+.cal1{
+padding:2em;
+color: #000;
+background-color: #ddd;
+border-bottom: 1em solid #333;
+}
+
+p{
+  margin:0;
+  padding:0;
+
+}
+
